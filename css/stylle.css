@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background-color: #455a62;
+}
+table{
+	    width: 100%;
+	    background: #3a1d1d;
+	    border-collapse: collapse;
+	    border-color: #4380bf;
+	    margin-top: 5%;
+	    text-align: center;
+	    color: #00fbff;
+}
+th{
+    font-size: 30px;
+    background: #0049cb;
+    padding: inherit;
+}
+tr{}
+td{
+    font-size: 16px;
+}
+div{
+    width: 100%;
+    margin: auto;
+}
